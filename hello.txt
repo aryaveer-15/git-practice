@@ -1,2 +1,2 @@
-Hello Git anfd Git-Hub!
-This is the login feature.
+Hello Git and Git Hub!
+This is my navbar feature.
